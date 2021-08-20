@@ -1,0 +1,8 @@
+{
+    "prettier": true,
+    "rules": {
+        "unicorn/no-process-exit": "off",
+        "unicorn/prefer-module": "off",
+        "node/prefer-global/process": "off"
+    }
+}
